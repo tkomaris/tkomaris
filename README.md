@@ -8,4 +8,4 @@
 * 🗣️ Languages: English (fluent), French (upper-intermediate), Russian (native)
 
 📫 How to reach me
-LinkedIn: https://www.linkedin.com/in/tatianakomaristaia/ 
+* https://www.linkedin.com/in/tatianakomaristaia/ 
