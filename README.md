@@ -2,24 +2,24 @@
 
 Machine Learning Engineer with a strong background in finance and data science, passionate about building AI solutions for real-world problems
 
-👩‍💻 About Me
-* 🔭 Currently working as a Machine Learning Engineer at BPCE, developing LLM-based solutions
-* 💼 Before working as an engineer, I was an investment analyst at venture capital fund
-* 🎓 I have university degrees in Computer Science, Data Science and Economics
-* 🌍 Based in Paris, France
-* 🗣️ Languages: English (fluent), French (upper-intermediate), Russian (native)
+👩 About Me
+ 🔧 Currently working as a Machine Learning Engineer at BPCE, developing LLM-based solutions
+ 💼 Before working as an engineer, I was an investment analyst at a venture capital fund
+ 🎓 I have university degrees in Computer Science, Data Science and Economics
+ 🌍 Based in Paris, France
+ 🗣️ Languages: English (fluent), French (upper-intermediate), Russian (native)
 
 🎓 Education
-* Ecole 42 (Jan. 2021 - Sep. 2025), Paris
+ 👩‍💻 Ecole 42 (Jan. 2021 - Sep. 2025)
   * Master's in Computer Science 
   * Languages and technologies: C, C++, TypeScript, Docker, Kubernetes, Python
-* ESCP (Sep. 2022 - Dec. 2022), Paris
+ 😎 ESCP (Sep. 2022 - Dec. 2022)
   * Option E program, GPA: 3.8 out of 4.0
-  * Specialization: Entrepreneurship. Key courses: design thinking, pitching, human resources, finance 
-* London School of Economics (2019-2023), London/Remote
+  * Specialization: Entrepreneurship. Key courses: design thinking, pitching, human resources, finance
+ 👩‍🎓 London School of Economics (2019-2023)
   * Bachelor's in Data Science and Business Analytics Second Class Honours (Upper Division)
   * Key courses: Economics, Advanced Statistics, Econometrics, Machine Learning, Business Analytics
-* Finacial University (Sep. 2014 - May 2018), Moscow
+ 👩‍💼 Moscow Finacial University (Sep. 2014 - May 2018)
   * Bachelor's in Economics, GPA: 4.7 out of 5.0
   * Specialization: banking and financial markets 
 
