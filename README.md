@@ -6,6 +6,4 @@
 * 🎓 I have university degrees in Computer Science, Data Science and Economics
 * 🌍 Based in Paris, France
 * 🗣️ Languages: English (fluent), French (upper-intermediate), Russian (native)
-
-📫 How to reach me
-* https://www.linkedin.com/in/tatianakomaristaia/ 
+* 📫 How to reach me: https://www.linkedin.com/in/tatianakomaristaia/ 
